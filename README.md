@@ -1,3 +1,5 @@
+![Uygulama Görüntüsü](screenshot.png)
+![Uygulama Görüntüsü](screenshot2.png)
 # 🎓 OBS AI Agent (Fakülte Asistanı)
 
 Bu proje, fakülteye ait verileri (Yemek listesi, yönetmelikler, akademik takvim vb.) RAG (Retrieval-Augmented Generation) mimarisi ile işleyen ve öğrencilerin sorularını yanıtlayan yerel bir yapay zeka asistanıdır.
